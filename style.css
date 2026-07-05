@@ -1,0 +1,19 @@
+body {
+  background-color: #f4f6f9;
+}
+
+.chart-card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  height: 100%;
+}
+
+.card-title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+canvas {
+  width: 100% !important;
+}
