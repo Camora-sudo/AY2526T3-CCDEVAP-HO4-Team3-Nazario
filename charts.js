@@ -53,12 +53,12 @@ new Chart(passFailCtx, {
     datasets: [
       {
         label: 'Passed',
-        data: [18, 12, 22, 15],
+        data: [18, 12, 17, 15],
         backgroundColor: '#4caf50'
       },
       {
         label: 'Failed',
-        data: [4, 8, 2, 6],
+        data: [4, 8, 8, 6],
         backgroundColor: '#e05252'
       }
     ]
